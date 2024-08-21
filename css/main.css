@@ -164,7 +164,7 @@ body {
   width: 8vmin;
   height: 11vmin;
   border-radius: 51% 49% 47% 53%/44% 45% 55% 69%;
-  background-color: #ed05d2;
+  background-color: #pink;
   background-image: linear-gradient(to top, #d818bf, #e9108f);
   transform-origin: bottom center;
   opacity: 0.9;
